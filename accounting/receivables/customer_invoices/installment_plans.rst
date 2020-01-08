@@ -11,10 +11,9 @@ Example, for a specific invoice:
 -  Pay the remaining balance within 30 days
 
 .. note::
-
-	payment terms are not to be confused with a payment in several parts. If,
-	for a specific order, you invoice the customer in two parts, that's not a
-	payment term but an invoice policy.
+   Payment terms are not to be confused with a payment in several parts. If,
+   for a specific order, you invoice the customer in two parts, that's not a
+   payment term but an invoice policy.
 
 Configuration
 =============
@@ -32,8 +31,7 @@ may not compute exactly 100%)
   :align: center
 
 .. tip::
-
-	The description of the payment term will appear on the invoice or the sale order.
+   The description of the payment term will appear on the invoice or the sale order.
 
 Payment terms for customers
 ===========================
@@ -82,6 +80,5 @@ dates. To get the customer statement, use the menu Sales > Customers
 Statement.
 
 .. seealso::
-
-	* :doc:`overview`
-	* :doc:`payment_terms`
+   - :doc:`overview`
+   - :doc:`payment_terms`

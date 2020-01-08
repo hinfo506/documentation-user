@@ -95,7 +95,7 @@ journal item is now listed under the **Related Sales** tab.
 .. image:: media/deferred_revenues05.png
    :align: center
    :alt: Deferred Revenue entry in Odoo Accounting
-	
+
 Once done, you can click on *Compute Revenue* (next to the *Confirm*
 button) to generate all the values of the **Revenue Board**. This board
 shows you all the entries that Odoo will post to recognize your

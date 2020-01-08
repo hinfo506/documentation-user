@@ -12,7 +12,7 @@ Configuration
 In the *Inventory* app, go to *Configuration > Settings* and activate the *Multi-Step Routes*. By doing so, the *Storage Locations* will be automatically activated.
 
 .. image:: media/putaw1.png
- 	:align: center
+   :align: center
 
 Setting up a Putaway Rule
 ==========================
@@ -24,18 +24,18 @@ Let’s suppose there are one warehouse location *WH/Stock* and two sub-location
 To manage those locations, we will create putaway rules. To do so, open the *Inventory* app and go to *Configuration > Putaway Rules*. Then, click on create and configure your first rule indicating the main location the product will enter before being redirected to the right location. 
 
 .. note::
-	The putaway rules can be defined either per product or per product category.
+   The putaway rules can be defined either per product or per product category.
 
 .. image:: media/putaw2.png
- 	:align: center
-	
+   :align: center
+
 Now, if I purchase apples and carrots to my supplier, they will be grouped in the same receipt but redirected to the right location automatically, thanks to putaway rules. This information is available from *Inventory Report*, under the reporting menu.
 
 .. image:: media/putaw3.png
- 	:align: center	
+   :align: center
 
 .. image:: media/putaw4.png
- 	:align: center
+   :align: center
 
 .. image:: media/putaw5.png
- 	:align: center	
+   :align: center
